@@ -1,4 +1,3 @@
 streamlit
 pycaret==3.3.2
-pandas<2.2.0
 matplotlib
